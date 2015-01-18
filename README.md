@@ -26,6 +26,9 @@ Enter (the option) and the search pattern: -s Hoge
 
 # Prerequisites
 
+* nerdtree    
+https://github.com/scrooloose/nerdtree
+
 * install ag   
 https://github.com/ggreer/the_silver_searcher
 
